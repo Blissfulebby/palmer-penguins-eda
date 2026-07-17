@@ -82,9 +82,9 @@ The analysis includes:
 
 ---
 
-## 📊 Visualizations
+# 📊 Visualizations
 
-### 📊 Count Plot
+# 📊 Count Plot
 
 ![Count Plot](images/countplot.png)
 
@@ -93,7 +93,7 @@ The count plot shows the distribution of penguin species in the dataset. Adelie 
 
 ---
 
-### 📈 Pair Plot
+# 📈 Pair Plot
 
 ![Pair Plot](images/pairplot.png)
 
@@ -102,7 +102,7 @@ The pair plot reveals relationships between numerical variables. Penguins with l
 
 ---
 
-### 📦 Box Plot
+# 📦 Box Plot
 
 ![Box Plot](images/boxplot.png)
 
@@ -111,13 +111,12 @@ The box plot highlights the distribution of body mass and identifies potential o
 
 ---
 
-### 🎻 Violin Plot
+# 🎻 Violin Plot
 
 ![Violin Plot](images/violinplot.png)
 
 **Interpretation:**  
 The violin plot combines a box plot with a density plot, showing the distribution and spread of body mass for each penguin species.
-Visualizations created include:
 
 ---
 
