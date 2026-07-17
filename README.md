@@ -82,17 +82,42 @@ The analysis includes:
 
 ---
 
-# 📊 Visualizations
+## 📊 Visualizations
 
+### 📊 Count Plot
+
+![Count Plot](images/countplot.png)
+
+**Interpretation:**  
+The count plot shows the distribution of penguin species in the dataset. Adelie penguins have the highest number of observations.
+
+---
+
+### 📈 Pair Plot
+
+![Pair Plot](images/pairplot.png)
+
+**Interpretation:**  
+The pair plot reveals relationships between numerical variables. Penguins with longer flippers generally tend to have higher body mass, indicating a positive relationship between flipper length and body mass.
+
+---
+
+### 📦 Box Plot
+
+![Box Plot](images/boxplot.png)
+
+**Interpretation:**  
+The box plot highlights the distribution of body mass and identifies potential outliers. Gentoo penguins generally have a higher body mass than the other species.
+
+---
+
+### 🎻 Violin Plot
+
+![Violin Plot](images/violinplot.png)
+
+**Interpretation:**  
+The violin plot combines a box plot with a density plot, showing the distribution and spread of body mass for each penguin species.
 Visualizations created include:
-
-- Count Plot
-- Histogram
-- Scatter Plot
-- Pair Plot
-- Box Plot
-- Violin Plot
-- Joint Plot
 
 ---
 
