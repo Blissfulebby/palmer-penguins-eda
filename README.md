@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Palmer Penguins EDA Banner" width="100%">
+  <img src="images/Banner.png" alt="Palmer Penguins EDA Banner" width="100%">
 </p>
 
 # 🐧 Palmer Penguins Exploratory Data Analysis (EDA)
