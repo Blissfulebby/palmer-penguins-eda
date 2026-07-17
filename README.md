@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Palmer Penguins EDA Banner" width="100%">
+</p>
+
 # 🐧 Palmer Penguins Exploratory Data Analysis (EDA)
 
 <p align="center">
